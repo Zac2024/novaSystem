@@ -1,0 +1,6 @@
+C:\Users\Naye GI\Documents\NOVA-SYSTEM\NOVA-SYSTEM\CAPA_DATOS\bin\Debug\CAPA_DATOS.dll
+C:\Users\Naye GI\Documents\NOVA-SYSTEM\NOVA-SYSTEM\CAPA_DATOS\bin\Debug\CAPA_DATOS.pdb
+C:\Users\Naye GI\Documents\NOVA-SYSTEM\NOVA-SYSTEM\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.AssemblyReference.cache
+C:\Users\Naye GI\Documents\NOVA-SYSTEM\NOVA-SYSTEM\CAPA_DATOS\obj\Debug\CAPA_DATOS.csproj.CoreCompileInputs.cache
+C:\Users\Naye GI\Documents\NOVA-SYSTEM\NOVA-SYSTEM\CAPA_DATOS\obj\Debug\CAPA_DATOS.dll
+C:\Users\Naye GI\Documents\NOVA-SYSTEM\NOVA-SYSTEM\CAPA_DATOS\obj\Debug\CAPA_DATOS.pdb
